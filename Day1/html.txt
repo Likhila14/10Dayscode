@@ -1,0 +1,36 @@
+We did the crash course on the HTML
+
+we learned
+
+1. What is HTML?                  
+2.What We Need To Start          
+3.Creating an HTML file          
+4.Tag Syntax                     
+5. HTML Page Structure            
+6. Page Structure Examlples 
+
+Tags And Elements                           
+
+7.Headings                      
+8.Paragraphs                    
+9.Tag Attributes                
+10.Lists                         
+11.Tables                        
+12.Forms                         
+13.Buttons                       
+14.Images                        
+15.Quotations               
+
+HTML5 Semantic Tags  
+      
+16.Info                          
+17.blog.html                     
+18.Articles                     
+19.Sidebar/aside/nav             
+20.Footer                        
+21.Simple Styling with CSS       
+22.Meta-tags/SSO                 
+23.Internal links                
+24.Outro
+
+

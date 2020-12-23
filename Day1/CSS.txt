@@ -1,0 +1,25 @@
+We did a crash course on css
+ 
+we learned
+
+1.What is CSS?
+2.Creating a CSS file (Sublime)
+3.Methods For Adding CSS 
+
+CSS
+
+4.Color (all 3 methods)
+5.CSS Selectors
+6.Colors in CSS
+7.Web Safe Fonts (sizes, weights, and height) 
+8.Class and Id
+9.Box Model, Margin and Padding Shorthand, and Borders
+10.Text Formatting Styles 
+11.Links 
+12.Forms 
+13.button style 
+14.Alignment and Floating
+15.Positioning in CSS
+16.Setting Images As Element Background
+17.Pseudo Classes
+18.Making Own Website (Outro)
