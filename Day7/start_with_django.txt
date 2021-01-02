@@ -3,17 +3,17 @@ some key commands
 1.To Install django       --> pip install django
 
 2. To test weather django is installed  --> python
-                                                               --> import django
-                                                               --> django.VERSION
+                                        --> import django
+                                        --> django.VERSION
 
-2. To create a django project  --> django-admin startproject <myfirstproject>
+2. To create a django project  --> django-admin startproject <projectname>
 
-3. To create our own app --> cd myfirstproject
-                                          --> python manage.py startapp myapp 
+3. To create our own app --> cd <projectname>
+                        --> python manage.py startapp <appname>
 
 4. To run or start the django server -->  python manage.py runserver
 
 5. We should create a virtual environment  for each project
                                                 commands --> pip install pipenv
-                                                                   --> pipenv shell
-                                                                   --> pipenv install django
+                                                         --> pipenv shell
+                                                         --> pipenv install django
